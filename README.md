@@ -2,6 +2,8 @@
 
 **Presentation Timer** is a modern, web-based time management tool meticulously designed for presenters, speakers, and anyone who wants to deliver a perfectly timed presentation. Built with **SvelteKit** and component-based architecture, this application offers more than just a simple countdown—it's a smart partner that helps you dynamically manage your time on the fly.
 
+URL : https://presentation-timer-wheat.vercel.app/
+
 ---
 
 ### ✨ Key Features
@@ -36,6 +38,8 @@ This project was co-created through an extensive series of prompts with Google's
 # Presentation Timer: 完璧なプレゼンのための、賢いタイムキーパー
 
 **Presentation Timer**は、プレゼンター、講演者、そして時間通りに完璧な発表を届けたいと願うすべての人のために、細心の注意を払って設計された、モダンなWebベースの時間管理ツールです。**SvelteKit**とコンポーネントベースアーキテクチャで構築されたこのアプリケーションは、単なるカウントダウン機能だけではありません。状況に応じて動的に時間を管理する、あなたの賢いパートナーです。
+
+URL : https://presentation-timer-wheat.vercel.app/
 
 ---
 
