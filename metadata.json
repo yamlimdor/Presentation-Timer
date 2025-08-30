@@ -1,0 +1,5 @@
+{
+  "name": "React Presentation Timer",
+  "description": "A timer application to manage presentation time by sections. Set total time, add sections with specific durations, and track your progress with a visual countdown and progress bar.",
+  "requestFramePermissions": []
+}
